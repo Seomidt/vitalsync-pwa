@@ -1,0 +1,25 @@
+{
+  "name": "VitalSync",
+  "short_name": "VitalSync",
+  "description": "Din ultimative sundhedsdashboard – Oura Ring data, AI coach og rapporter",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0e17",
+  "background_color": "#0a0e17",
+  "lang": "da",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
